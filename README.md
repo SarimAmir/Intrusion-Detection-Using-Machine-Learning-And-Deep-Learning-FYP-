@@ -1,5 +1,5 @@
 # Project Title
-Intrusion Detection Using Machine Learning And Deep Learning FYP 
+Intrusion Detection Using Machine Learning And Deep Learning (FYP) 
 # Project Description
 It is an implementation of our research work. We implemented DT, RF and Bi-LSTM on ARP_MITM and SSDP FLOOD datasets. For RF and DT, concatenated dataset was divided into three ratios: 70%:30%, 80%:20%, and 90%:10% for training and testing respectively. Both models were trained on separate datasets as well with the same ratios.
 For Bi-LSTM, concatenated dataset was used with different number of layers. All the models performs very well and had an accuracy over 99% but Random Forest outperform all the models.
