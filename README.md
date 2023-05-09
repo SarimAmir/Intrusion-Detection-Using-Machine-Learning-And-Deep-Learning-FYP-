@@ -9,6 +9,6 @@ https://ieeexplore.ieee.org/document/10099152
 1. The files are notebook files so jupyter notebook IDE or Dataspell IDE is required.
 2. You can install the dataset from this link. https://www.kaggle.com/datasets/ymirsky/network-attack-dataset-kitsune
 # Credits
-It's my FYP with my FYP partner Sarim Amir https://github.com/SarimAmir 
+It's my FYP with my FYP partner Sarim Amir https://github.com/SarimAmir and my supervisor Misbah Anwer and Yumna Iftikhar.
 # How to contribute to project
 We only trained our model on 19GB dataset out of 64GB because of the limited resources. You can built a more powerful intrusion detection model by using the whole dataset. You can also apply different algorithms and different techniques to increase the accuracy.
