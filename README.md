@@ -9,6 +9,7 @@ https://ieeexplore.ieee.org/document/10099152
 # How to use project
 1. The files are notebook files so jupyter notebook IDE or Dataspell IDE is required.
 2. You can install the dataset from this link. https://www.kaggle.com/datasets/ymirsky/network-attack-dataset-kitsune
+3. The front-end prototype is made using streamlit so you can run it on pycharm. Open the project in pycharm, goto terminal, run the command "streamlit run main.py"
 # Credits
 It's my FYP with my FYP partner Sarim Amir https://github.com/SarimAmir and my supervisor Misbah Anwer and Yumna Iftikhar.
 # How to contribute to project
