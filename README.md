@@ -3,7 +3,7 @@ Intrusion Detection Using Machine Learning And Deep Learning for IoT (FYP)
 # Project Description
 It is an implementation of our research work. We implemented DT, RF and Bi-LSTM on ARP_MITM and SSDP FLOOD datasets. For RF and DT, concatenated dataset was divided into three ratios: 70%:30%, 80%:20%, and 90%:10% for training and testing respectively. Both models were trained on separate datasets as well with the same ratios.
 For Bi-LSTM, concatenated dataset was used with different number of layers. All the models performs very well and had an accuracy over 99% but Random Forest outperform all the models. The front-end of our prototype, demonstrate the dataset upload process, which includes both malicious and normal packets. Upon uploading the dataset, the back-end model conducts predictions on the packets, accurately categorizing them as normal or malicious. The front-end then presents the performance metrics and confusion matrix, providing valuable insights into the model's effectiveness.
-![image](https://github.com/GufranBhatti/Intrusion-Detection-Using-Machine-Learning-And-Deep-Learning-FYP-/assets/58569042/cdede8ec-d12e-4023-9c79-13ed837c29a3)
+![Capture](https://github.com/GufranBhatti/Intrusion-Detection-Using-Machine-Learning-And-Deep-Learning-FYP-/assets/58569042/fb0a9f9c-a7e5-4b8e-a7a9-90fc91ea9940)
 # Research paper
 https://ieeexplore.ieee.org/document/10099152
 # How to use project
