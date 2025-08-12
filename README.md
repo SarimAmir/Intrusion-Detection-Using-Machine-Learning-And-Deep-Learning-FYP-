@@ -11,6 +11,6 @@ https://ieeexplore.ieee.org/document/10099152
 2. You can install the dataset from this link. https://www.kaggle.com/datasets/ymirsky/network-attack-dataset-kitsune
 3. The front-end prototype is made using streamlit so you can run it on pycharm. Open the project in pycharm, goto terminal, run the command "streamlit run main.py"
 # Credits
-It's my FYP with my FYP partner Sarim Amir https://github.com/SarimAmir and my supervisor Misbah Anwer and Yumna Iftikhar.
+It's my FYP with my FYP partner Gufran Bhatti (https://github.com/GufranBhatti) and my supervisor Misbah Anwer and Yumna Iftikhar.
 # How to contribute to project
 We only trained our model on 19GB dataset out of 64GB because of the limited resources. You can built a more powerful intrusion detection model by using the whole dataset. You can also apply different algorithms and different techniques to increase the accuracy.
